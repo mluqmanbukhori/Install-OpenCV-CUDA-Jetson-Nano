@@ -28,3 +28,8 @@ Sebelum melakukan installasi Opencv with CUDA di Jetson Nano Anda, pastikan suda
 
 # Cek OpenCV CUDA dengan Jetson Stats 
 Ketik di terminal `$ jtop`
+
+# Kontribusi
+Jangan lupa follow media Sosial kami <br>
+YouTube : [Elektro Project](https://www.youtube.com/elektroproject) <br>
+Twitter : [@mluqmanbukhori](https://twitter.com/mluqmanbukhori)
