@@ -25,3 +25,6 @@ Sebelum melakukan installasi Opencv with CUDA di Jetson Nano Anda, pastikan suda
 <div><pre>
   $ ./OpenCV_4-5-0_CUDA.sh
 </pre></div>
+
+# Cek OpenCV CUDA dengan Jetson Stats 
+Ketik di terminal `$ jtop`
