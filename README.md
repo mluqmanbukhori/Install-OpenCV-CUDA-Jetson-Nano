@@ -11,12 +11,12 @@ Sebelum melakukan installasi Opencv with CUDA di Jetson Nano Anda, pastikan suda
 
 # Mulai Install OpenCV
 Terdapat beberapa versi OpenCV yang bisa Anda download
-  1. OpenCV_4-5-0_CUDA.sh
-  2. OpenCV_4-5-1_CUDA.sh
-  3. OpenCV_4-5-2_CUDA.sh
-  4. OpenCV_4-5-3_CUDA.sh
-  5. OpenCV_4-5-4_CUDA.sh
-  6. OpenCV_4-5-5_CUDA.sh
+1. OpenCV_4-5-0_CUDA.sh
+2. OpenCV_4-5-1_CUDA.sh
+3. OpenCV_4-5-2_CUDA.sh
+4. OpenCV_4-5-3_CUDA.sh
+5. OpenCV_4-5-4_CUDA.sh
+6. OpenCV_4-5-5_CUDA.sh
 * Download script `OpenCV_4-5-x_CUDA.sh` yang telah disiapkan `ganti x dengan versi yang diinginkan` dengan cara berikut
 <div><pre>
   $ wget https://github.com/mluqmanbukhori/Install-OpenCV-CUDA-Jetson-Nano/raw/main/OpenCV_4-5-x_CUDA.sh
