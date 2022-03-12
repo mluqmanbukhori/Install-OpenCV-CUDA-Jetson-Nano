@@ -101,4 +101,4 @@ make clean
 sudo apt-get update
 
 echo "Congratulations!"
-echo "You've successfully installed OpenCV 4.5.0 on your Jetson Nano"
+echo "You've successfully installed OpenCV 4.5.1 on your Jetson Nano"
