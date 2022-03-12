@@ -1,5 +1,5 @@
-# Install OpenCV versi 4.5.0 CUDA di Jetson Nano
-Repositori ini digunakan untuk melakukan install OpenCV versi 4.5.0 dengan mengaktifkan CUDA Compiled di Jetson Nano. Lihat Gambar berikut ini.<br><br>
+# Install OpenCV versi 4.5 CUDA di Jetson Nano
+Repositori ini digunakan untuk melakukan install OpenCV versi 4.5.X dengan mengaktifkan CUDA Compiled di Jetson Nano. Lihat Gambar berikut ini.<br><br>
 ![OpenCV](https://github.com/mluqmanbukhori/Install-OpenCV-CUDA-Jetson-Nano/blob/main/OpenCV-CUDA.jpg)
 
 # Persiapan sebelum Install
@@ -10,12 +10,19 @@ Sebelum melakukan installasi Opencv with CUDA di Jetson Nano Anda, pastikan suda
 </pre></div>
 
 # Mulai Install OpenCV
-* Download script `OpenCV_4-5-0_CUDA.sh` yang telah disiapkan dengan cara berikut
+Terdapat beberapa versi OpenCV yang bisa Anda download
+  1. OpenCV_4-5-0_CUDA.sh
+  2. OpenCV_4-5-1_CUDA.sh
+  3. OpenCV_4-5-2_CUDA.sh
+  4. OpenCV_4-5-3_CUDA.sh
+  5. OpenCV_4-5-4_CUDA.sh
+  6. OpenCV_4-5-5_CUDA.sh
+* Download script `OpenCV_4-5-x_CUDA.sh` yang telah disiapkan `ganti x dengan versi yang diinginkan` dengan cara berikut
 <div><pre>
-  $ wget https://github.com/mluqmanbukhori/Install-OpenCV-CUDA-Jetson-Nano/raw/main/OpenCV_4-5-0_CUDA.sh
+  $ wget https://github.com/mluqmanbukhori/Install-OpenCV-CUDA-Jetson-Nano/raw/main/OpenCV_4-5-x_CUDA.sh
 </pre></div>
 
-* Atur otoritas file dengan `chmod`
+* Atur otoritas file dengan `sudo chmod`
 <div><pre>
   $ sudo chmod 755 ./OpenCV_4-5-0_CUDA.sh
 </pre></div>
