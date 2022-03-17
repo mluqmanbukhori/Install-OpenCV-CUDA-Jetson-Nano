@@ -74,4 +74,4 @@ Ketikan kembali di terminal `$ jtop`
 Jangan lupa follow media Sosial kami <br>
 YouTube : [Elektro Project](https://www.youtube.com/elektroproject) <br>
 Twitter : [@mluqmanbukhori](https://twitter.com/mluqmanbukhori) <br>
-Instagram : [@mluqmanbukhori](https://instagram.com/mluqmanbukhori) | [@lektro.project](https://instagram.com/elektro.project)
+Instagram : [@mluqmanbukhori](https://instagram.com/mluqmanbukhori) | [@elektro.project](https://instagram.com/elektro.project)
