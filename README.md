@@ -37,7 +37,7 @@ Terdapat beberapa versi OpenCV yang bisa Anda download
 ketik di terminal `$ nvcc --version` <br>
 Jika `nvcc: error` perlu melakukan instruksi berikut
 <div><pre>
-  masuk ke folder src
+masuk ke folder src
   $ cd /usr/local/src 
   <br>copy path CUDA dengan mengetik line berikut
   $ echo "export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}" >> ~/.bashrc
@@ -60,7 +60,7 @@ Tampilan yang muncul ketika mengetikan `nvcc --version` kurang lebih seperti ber
   Build cuda_10.2_r440.TC440_70.29663091_0
 </pre></div>
 
-# Cek OpenCV CUDA dengan Jetson Stats 
+# Monitoring OpenCV CUDA dengan Jetson Stats 
 Ketik di terminal `$ jtop` <br>
 Jika `Error` berarti belum terinstall, ikuti langkah berikut
 <div><pre>
