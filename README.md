@@ -24,7 +24,7 @@ Terdapat beberapa versi OpenCV yang bisa Anda download
 
 * Atur otoritas file dengan `sudo chmod`
 <div><pre>
-  $ sudo chmod 755 ./OpenCV_4-5-x_CUDA.sh
+  $ sudo chmod 755 OpenCV_4-5-x_CUDA.sh
 </pre></div>
 
 * Install OpenCV dengan menuliskan script berikut
