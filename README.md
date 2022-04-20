@@ -2,14 +2,14 @@
 Repositori ini digunakan untuk melakukan install OpenCV versi 4.5.X dengan mengaktifkan CUDA Compiled di Jetson Nano. Lihat Gambar berikut ini.<br><br>
 ![OpenCV](https://github.com/mluqmanbukhori/Install-OpenCV-CUDA-Jetson-Nano/blob/main/OpenCV-CUDA.jpg)
 
-# Persiapan sebelum Install
+## Persiapan sebelum Install
 Sebelum melakukan installasi Opencv with CUDA di Jetson Nano Anda, pastikan sudah menginstall `Qt5` menggunakan script berikut.
 > **Catatan:** Jika sudah menginstall bisa melewati langkah ini
 <div><pre>
   $ sudo apt-get install -y qt5-default
 </pre></div>
 
-# Mulai Install OpenCV
+## Mulai Install OpenCV
 Terdapat beberapa versi OpenCV yang bisa Anda download
 1. OpenCV_4-5-0_CUDA.sh
 2. OpenCV_4-5-1_CUDA.sh
@@ -33,7 +33,7 @@ Terdapat beberapa versi OpenCV yang bisa Anda download
   $ ./OpenCV_4-5-x_CUDA.sh
 </pre></div>
 
-# Cek CUDA Installation L4T
+## Cek CUDA Installation L4T
 ketik di terminal `$ nvcc --version` <br>
 Jika `nvcc: error` perlu melakukan instruksi berikut
 <div><pre>
@@ -60,7 +60,7 @@ Tampilan yang muncul ketika mengetikan `nvcc --version` kurang lebih seperti ber
   Build cuda_10.2_r440.TC440_70.29663091_0
 </pre></div>
 
-# Monitoring OpenCV CUDA dengan Jetson Stats 
+## Monitoring OpenCV CUDA dengan Jetson Stats 
 Ketik di terminal `$ jtop` <br>
 Jika `Error` berarti belum terinstall, ikuti langkah berikut
 <div><pre>
